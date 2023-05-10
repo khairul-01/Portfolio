@@ -282,7 +282,7 @@ hr{
 }
 .footerMenu a{
    text-decoration: none;
-   font-size:;
+   /* font-size: ; */
    padding: 5px;
    color:antiquewhite;
    width: 90px;
@@ -292,4 +292,5 @@ hr{
 }
 .footerMenu a:hover{
    background-color:rgb(109, 182, 182);
+}
 /* Footer end */
